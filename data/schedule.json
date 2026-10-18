@@ -1,0 +1,218 @@
+[
+  {
+    "day": "Dushanba",
+    "time": "08:00",
+    "subject": "Matematika",
+    "room": "21"
+  },
+  {
+    "day": "Dushanba",
+    "time": "08:55",
+    "subject": "Ona tili",
+    "room": "14"
+  },
+  {
+    "day": "Dushanba",
+    "time": "09:50",
+    "subject": "Ingliz tili",
+    "room": "32"
+  },
+  {
+    "day": "Dushanba",
+    "time": "10:55",
+    "subject": "Tarix",
+    "room": "18"
+  },
+  {
+    "day": "Dushanba",
+    "time": "11:50",
+    "subject": "Jismoniy tarbiya",
+    "room": "Sport zal"
+  },
+  {
+    "day": "Dushanba",
+    "time": "12:45",
+    "subject": "Biologiya",
+    "room": "25"
+  },
+  {
+    "day": "Seshanba",
+    "time": "08:00",
+    "subject": "Rus tili",
+    "room": "16"
+  },
+  {
+    "day": "Seshanba",
+    "time": "08:55",
+    "subject": "Matematika",
+    "room": "21"
+  },
+  {
+    "day": "Seshanba",
+    "time": "09:50",
+    "subject": "Adabiyot",
+    "room": "14"
+  },
+  {
+    "day": "Seshanba",
+    "time": "10:55",
+    "subject": "Geografiya",
+    "room": "19"
+  },
+  {
+    "day": "Seshanba",
+    "time": "11:50",
+    "subject": "Informatika",
+    "room": "40"
+  },
+  {
+    "day": "Seshanba",
+    "time": "12:45",
+    "subject": "Musiqa",
+    "room": "11"
+  },
+  {
+    "day": "Chorshanba",
+    "time": "08:00",
+    "subject": "Matematika",
+    "room": "21"
+  },
+  {
+    "day": "Chorshanba",
+    "time": "08:55",
+    "subject": "Ingliz tili",
+    "room": "32"
+  },
+  {
+    "day": "Chorshanba",
+    "time": "09:50",
+    "subject": "Ona tili",
+    "room": "14"
+  },
+  {
+    "day": "Chorshanba",
+    "time": "10:55",
+    "subject": "Biologiya",
+    "room": "25"
+  },
+  {
+    "day": "Chorshanba",
+    "time": "11:50",
+    "subject": "Tasviriy san'at",
+    "room": "12"
+  },
+  {
+    "day": "Chorshanba",
+    "time": "12:45",
+    "subject": "Tarbiya",
+    "room": "18"
+  },
+  {
+    "day": "Payshanba",
+    "time": "08:00",
+    "subject": "Ona tili",
+    "room": "14"
+  },
+  {
+    "day": "Payshanba",
+    "time": "08:55",
+    "subject": "Matematika",
+    "room": "21"
+  },
+  {
+    "day": "Payshanba",
+    "time": "09:50",
+    "subject": "Tarix",
+    "room": "18"
+  },
+  {
+    "day": "Payshanba",
+    "time": "10:55",
+    "subject": "Rus tili",
+    "room": "16"
+  },
+  {
+    "day": "Payshanba",
+    "time": "11:50",
+    "subject": "Jismoniy tarbiya",
+    "room": "Sport zal"
+  },
+  {
+    "day": "Payshanba",
+    "time": "12:45",
+    "subject": "Texnologiya",
+    "room": "07"
+  },
+  {
+    "day": "Juma",
+    "time": "08:00",
+    "subject": "Matematika",
+    "room": "21"
+  },
+  {
+    "day": "Juma",
+    "time": "08:55",
+    "subject": "Adabiyot",
+    "room": "14"
+  },
+  {
+    "day": "Juma",
+    "time": "09:50",
+    "subject": "Ingliz tili",
+    "room": "32"
+  },
+  {
+    "day": "Juma",
+    "time": "10:55",
+    "subject": "Geografiya",
+    "room": "19"
+  },
+  {
+    "day": "Juma",
+    "time": "11:50",
+    "subject": "Informatika",
+    "room": "40"
+  },
+  {
+    "day": "Juma",
+    "time": "12:45",
+    "subject": "Rus tili",
+    "room": "16"
+  },
+  {
+    "day": "Shanba",
+    "time": "08:00",
+    "subject": "Matematika",
+    "room": "21"
+  },
+  {
+    "day": "Shanba",
+    "time": "08:55",
+    "subject": "Ona tili",
+    "room": "14"
+  },
+  {
+    "day": "Shanba",
+    "time": "09:50",
+    "subject": "Tarix",
+    "room": "18"
+  },
+  {
+    "day": "Shanba",
+    "time": "10:55",
+    "subject": "Ingliz tili",
+    "room": "32"
+  },
+  {
+    "day": "Shanba",
+    "time": "11:50",
+    "subject": "Biologiya",
+    "room": "25"
+  },
+  {
+    "day": "Shanba",
+    "time": "12:45",
+    "subject": "Jismoniy tarbiya",
+    "room": "Sport zal"
+  }
+]

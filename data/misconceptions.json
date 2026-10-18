@@ -1,0 +1,44 @@
+{
+  "uz": {
+    "1": {
+      "5/14": "Maxrajlarni ham qo'shib yuborishgan"
+    },
+    "2": {
+      "2/7": "Suratlarni va maxrajlarni alohida qo'shishgan",
+      "2/12": "Umumiy maxrajni topib, suratlarni o'zgartirmagan",
+      "1/7": "Maxrajlarni qo'shib, suratni o'zgartirmagan"
+    },
+    "3": {
+      "6/9": "Kasrni oxirigacha qisqartirmagan",
+      "4/6": "Kasrni oxirigacha qisqartirmagan"
+    },
+    "4": {
+      "<": "Faqat maxrajlarga qarab taqqoslagan"
+    },
+    "5": {
+      "3 1/5": "Qoldiqni noto'g'ri hisoblagan",
+      "17/5": "Butun qismini ajratmagan"
+    }
+  },
+  "ru": {
+    "1": {
+      "5/14": "Сложили и знаменатели тоже"
+    },
+    "2": {
+      "2/7": "Сложили отдельно числители и знаменатели",
+      "2/12": "Нашли общий знаменатель, но не изменили числители",
+      "1/7": "Сложили знаменатели, а числитель не изменили"
+    },
+    "3": {
+      "6/9": "Сократили дробь не до конца",
+      "4/6": "Сократили дробь не до конца"
+    },
+    "4": {
+      "<": "Сравнивали только по знаменателям"
+    },
+    "5": {
+      "3 1/5": "Неверно посчитали остаток",
+      "17/5": "Не выделили целую часть"
+    }
+  }
+}

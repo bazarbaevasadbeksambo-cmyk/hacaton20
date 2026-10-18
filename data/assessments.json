@@ -1,0 +1,42 @@
+[
+  {
+    "id": "as-bsb-har-xil",
+    "kind": "BSB",
+    "title": "BSB: Har xil maxrajli kasrlarni qo'shish",
+    "skillId": "kasr-qoshish-har-xil",
+    "createdAt": "2026-10-16T09:00:00.000Z",
+    "examMode": true,
+    "questions": [
+      {
+        "n": 1,
+        "text": "1/2 + 1/4 = ?",
+        "answer": "3/4",
+        "skillId": "kasr-qoshish-har-xil"
+      },
+      {
+        "n": 2,
+        "text": "2/3 + 1/5 = ?",
+        "answer": "13/15",
+        "skillId": "kasr-qoshish-har-xil"
+      },
+      {
+        "n": 3,
+        "text": "3/4 + 1/6 = ?",
+        "answer": "11/12",
+        "skillId": "kasr-qoshish-har-xil"
+      },
+      {
+        "n": 4,
+        "text": "1/3 + 3/8 = ?",
+        "answer": "17/24",
+        "skillId": "kasr-qoshish-har-xil"
+      },
+      {
+        "n": 5,
+        "text": "5/6 + 1/9 = ?",
+        "answer": "17/18",
+        "skillId": "kasr-qoshish-har-xil"
+      }
+    ]
+  }
+]

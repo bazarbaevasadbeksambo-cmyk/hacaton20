@@ -1,0 +1,32 @@
+{
+  "uz": [
+    {
+      "question": "Bog' qayerda joylashgan?",
+      "answer": "Maktab hovlisida."
+    },
+    {
+      "question": "Yozda bolalar bog'da nima qilishadi?",
+      "answer": "Tanaffusda soyada dam olishadi."
+    }
+  ],
+  "ru": [
+    {
+      "question": "Кто приходит в школу первым?",
+      "answer": "Сторож."
+    },
+    {
+      "question": "Что происходит, когда звенит звонок?",
+      "answer": "Начинается новый день (уроки)."
+    }
+  ],
+  "en": [
+    {
+      "question": "What do children cross every morning?",
+      "answer": "The old stone bridge."
+    },
+    {
+      "question": "How is the river different in summer?",
+      "answer": "It becomes slow and you can see small fish."
+    }
+  ]
+}

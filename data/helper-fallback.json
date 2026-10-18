@@ -1,0 +1,46 @@
+{
+  "uz": {
+    "kasr-qoshish-bir-xil": {
+      "explain": "Maxrajlar bir xil bo'lsa, faqat suratlarni qo'shamiz, maxraj o'zgarmaydi. Masalan, 2/7 + 3/7: suratlar 2 + 3 = 5, maxraj 7 qoladi.",
+      "similar": "O'zing sinab ko'r: 4/9 + 3/9 = ?"
+    },
+    "kasr-qoshish-har-xil": {
+      "explain": "Maxrajlar har xil bo'lsa, ularni darhol qo'shib bo'lmaydi. Avval umumiy maxrajni topamiz: 1/3 va 1/4 uchun bu 12. Keyin 1/3 = 4/12, 1/4 = 3/12 bo'ladi. Endi suratlarni qo'shamiz, maxraj 12 qoladi. Surat bilan suratni, maxraj bilan maxrajni qo'shish — xato yo'l.",
+      "similar": "O'zing sinab ko'r: 1/2 + 1/5 = ? Avval umumiy maxrajni top."
+    },
+    "kasr-qisqartirish": {
+      "explain": "Kasrni qisqartirish uchun surat va maxrajni bir xil songa bo'lamiz. Eng katta umumiy bo'luvchini topsang, bir qadamda oxirigacha qisqaradi. 12/18 uchun bu 6.",
+      "similar": "O'zing sinab ko'r: 20/30 kasrni oxirigacha qisqartir."
+    },
+    "kasr-taqqoslash": {
+      "explain": "Kasrlarni taqqoslash uchun ularni umumiy maxrajga keltiramiz yoki o'nli kasrga aylantiramiz. Faqat maxrajga qarash yetmaydi: maxraj katta bo'lsa, bo'lak kichik bo'ladi.",
+      "similar": "O'zing sinab ko'r: 2/3 va 5/8 ni taqqosla."
+    },
+    "aralash-son": {
+      "explain": "Suratni maxrajga bo'lamiz: butun qism — bo'linma, yangi surat — qoldiq, maxraj o'zgarmaydi. 17/5 da 17 : 5 = 3 va 2 qoldiq.",
+      "similar": "O'zing sinab ko'r: 22/7 ni aralash son ko'rinishida yoz."
+    }
+  },
+  "ru": {
+    "kasr-qoshish-bir-xil": {
+      "explain": "Если знаменатели одинаковые, складываем только числители, знаменатель не меняется. Например, 2/7 + 3/7: числители 2 + 3 = 5, знаменатель остаётся 7.",
+      "similar": "Попробуй сам: 4/9 + 3/9 = ?"
+    },
+    "kasr-qoshish-har-xil": {
+      "explain": "Если знаменатели разные, сразу складывать нельзя. Сначала находим общий знаменатель: для 1/3 и 1/4 это 12. Тогда 1/3 = 4/12, 1/4 = 3/12. Теперь складываем числители, знаменатель остаётся 12. Складывать числитель с числителем, а знаменатель со знаменателем — ошибка.",
+      "similar": "Попробуй сам: 1/2 + 1/5 = ? Сначала найди общий знаменатель."
+    },
+    "kasr-qisqartirish": {
+      "explain": "Чтобы сократить дробь, делим числитель и знаменатель на одно и то же число. Если найти наибольший общий делитель, дробь сократится до конца за один шаг. Для 12/18 это 6.",
+      "similar": "Попробуй сам: сократи 20/30 до конца."
+    },
+    "kasr-taqqoslash": {
+      "explain": "Чтобы сравнить дроби, приводим их к общему знаменателю или переводим в десятичные. Смотреть только на знаменатель недостаточно: чем больше знаменатель, тем меньше доля.",
+      "similar": "Попробуй сам: сравни 2/3 и 5/8."
+    },
+    "aralash-son": {
+      "explain": "Делим числитель на знаменатель: целая часть — частное, новый числитель — остаток, знаменатель не меняется. В 17/5: 17 : 5 = 3 и 2 в остатке.",
+      "similar": "Попробуй сам: запиши 22/7 смешанным числом."
+    }
+  }
+}

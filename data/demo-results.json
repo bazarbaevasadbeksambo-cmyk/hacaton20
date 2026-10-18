@@ -1,0 +1,1222 @@
+{
+  "worksheetId": "ws-kasrlar-2026-10-17",
+  "date": "2026-10-17",
+  "results": [
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s01",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/49",
+          "correct": false,
+          "confidence": 0.94
+        },
+        {
+          "n": 2,
+          "read": "7/7",
+          "correct": false,
+          "confidence": 0.87
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.9
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.91
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.99
+        }
+      ],
+      "score": 3
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s02",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.92
+        },
+        {
+          "n": 2,
+          "read": "2/7",
+          "correct": false,
+          "confidence": 0.93
+        },
+        {
+          "n": 3,
+          "read": "3/4",
+          "correct": false,
+          "confidence": 0.91
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.97
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.89
+        }
+      ],
+      "score": 3
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s03",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/14",
+          "correct": false,
+          "confidence": 0.89
+        },
+        {
+          "n": 2,
+          "read": "2/7",
+          "correct": false,
+          "confidence": 0.98
+        },
+        {
+          "n": 3,
+          "read": "4/6",
+          "correct": false,
+          "confidence": 0.9
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.91
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.9
+        }
+      ],
+      "score": 2
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s04",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "6/7",
+          "correct": false,
+          "confidence": 0.96
+        },
+        {
+          "n": 2,
+          "read": "2/7",
+          "correct": false,
+          "confidence": 0.89
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.64
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.93
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.91
+        }
+      ],
+      "score": 3
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s05",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/49",
+          "correct": false,
+          "confidence": 0.97
+        },
+        {
+          "n": 2,
+          "read": "1/7",
+          "correct": false,
+          "confidence": 0.61
+        },
+        {
+          "n": 3,
+          "read": "6/9",
+          "correct": false,
+          "confidence": 0.97
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.98
+        },
+        {
+          "n": 5,
+          "read": "17/5",
+          "correct": false,
+          "confidence": 0.89
+        }
+      ],
+      "score": 1
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s06",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.89
+        },
+        {
+          "n": 2,
+          "read": "7/12",
+          "correct": true,
+          "confidence": 0.87
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.64
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.96
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.95
+        }
+      ],
+      "score": 5
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s07",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.92
+        },
+        {
+          "n": 2,
+          "read": "7/12",
+          "correct": true,
+          "confidence": 0.95
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.95
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.95
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.89
+        }
+      ],
+      "score": 5
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s08",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.96
+        },
+        {
+          "n": 2,
+          "read": "2/7",
+          "correct": false,
+          "confidence": 0.88
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.96
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.9
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.95
+        }
+      ],
+      "score": 4
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s09",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.87
+        },
+        {
+          "n": 2,
+          "read": "2/7",
+          "correct": false,
+          "confidence": 0.93
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.91
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.99
+        },
+        {
+          "n": 5,
+          "read": "2 2/5",
+          "correct": false,
+          "confidence": 0.94
+        }
+      ],
+      "score": 3
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s10",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.98
+        },
+        {
+          "n": 2,
+          "read": "2/7",
+          "correct": false,
+          "confidence": 0.9
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.89
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.9
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.99
+        }
+      ],
+      "score": 4
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s11",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.87
+        },
+        {
+          "n": 2,
+          "read": "7/12",
+          "correct": true,
+          "confidence": 0.94
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.86
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.96
+        },
+        {
+          "n": 5,
+          "read": "17/5",
+          "correct": false,
+          "confidence": 0.96
+        }
+      ],
+      "score": 4
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s12",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.57
+        },
+        {
+          "n": 2,
+          "read": "7/12",
+          "correct": true,
+          "confidence": 0.66
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.55
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.98
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.88
+        }
+      ],
+      "score": 5
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s13",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.9
+        },
+        {
+          "n": 2,
+          "read": "7/12",
+          "correct": true,
+          "confidence": 0.91
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.91
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.93
+        },
+        {
+          "n": 5,
+          "read": "3 5/2",
+          "correct": false,
+          "confidence": 0.89
+        }
+      ],
+      "score": 4
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s14",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "6/7",
+          "correct": false,
+          "confidence": 0.96
+        },
+        {
+          "n": 2,
+          "read": "2/7",
+          "correct": false,
+          "confidence": 0.9
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.61
+        },
+        {
+          "n": 4,
+          "read": "<",
+          "correct": false,
+          "confidence": 0.86
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.9
+        }
+      ],
+      "score": 2
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s15",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.96
+        },
+        {
+          "n": 2,
+          "read": "7/12",
+          "correct": true,
+          "confidence": 0.88
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.88
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.98
+        },
+        {
+          "n": 5,
+          "read": "3 5/2",
+          "correct": false,
+          "confidence": 0.89
+        }
+      ],
+      "score": 4
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s16",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/14",
+          "correct": false,
+          "confidence": 0.88
+        },
+        {
+          "n": 2,
+          "read": "1/7",
+          "correct": false,
+          "confidence": 0.96
+        },
+        {
+          "n": 3,
+          "read": "6/9",
+          "correct": false,
+          "confidence": 0.88
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.86
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.88
+        }
+      ],
+      "score": 2
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s17",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.95
+        },
+        {
+          "n": 2,
+          "read": "2/12",
+          "correct": false,
+          "confidence": 0.97
+        },
+        {
+          "n": 3,
+          "read": "3/4",
+          "correct": false,
+          "confidence": 0.91
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.86
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.93
+        }
+      ],
+      "score": 3
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s18",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.92
+        },
+        {
+          "n": 2,
+          "read": "7/12",
+          "correct": true,
+          "confidence": 0.91
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.9
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.91
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.92
+        }
+      ],
+      "score": 5
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s19",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.9
+        },
+        {
+          "n": 2,
+          "read": "2/12",
+          "correct": false,
+          "confidence": 0.97
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.9
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.97
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.91
+        }
+      ],
+      "score": 4
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s20",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.98
+        },
+        {
+          "n": 2,
+          "read": "2/7",
+          "correct": false,
+          "confidence": 0.95
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.94
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.94
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.93
+        }
+      ],
+      "score": 4
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s21",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.91
+        },
+        {
+          "n": 2,
+          "read": "2/12",
+          "correct": false,
+          "confidence": 0.97
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.9
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.59
+        },
+        {
+          "n": 5,
+          "read": "3 1/5",
+          "correct": false,
+          "confidence": 0.91
+        }
+      ],
+      "score": 3
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s22",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.88
+        },
+        {
+          "n": 2,
+          "read": "1/7",
+          "correct": false,
+          "confidence": 0.94
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.95
+        },
+        {
+          "n": 4,
+          "read": "<",
+          "correct": false,
+          "confidence": 0.92
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.91
+        }
+      ],
+      "score": 3
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s23",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.89
+        },
+        {
+          "n": 2,
+          "read": "7/12",
+          "correct": true,
+          "confidence": 0.95
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.98
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.97
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.93
+        }
+      ],
+      "score": 5
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s24",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.94
+        },
+        {
+          "n": 2,
+          "read": "7/7",
+          "correct": false,
+          "confidence": 0.97
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.99
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.89
+        },
+        {
+          "n": 5,
+          "read": "17/5",
+          "correct": false,
+          "confidence": 0.91
+        }
+      ],
+      "score": 3
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s25",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.94
+        },
+        {
+          "n": 2,
+          "read": "2/12",
+          "correct": false,
+          "confidence": 0.97
+        },
+        {
+          "n": 3,
+          "read": "4/6",
+          "correct": false,
+          "confidence": 0.94
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.92
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.86
+        }
+      ],
+      "score": 3
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s26",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.9
+        },
+        {
+          "n": 2,
+          "read": "7/12",
+          "correct": true,
+          "confidence": 0.92
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.86
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.96
+        },
+        {
+          "n": 5,
+          "read": "3 5/2",
+          "correct": false,
+          "confidence": 0.93
+        }
+      ],
+      "score": 4
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s27",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.91
+        },
+        {
+          "n": 2,
+          "read": "7/12",
+          "correct": true,
+          "confidence": 0.97
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.86
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.97
+        },
+        {
+          "n": 5,
+          "read": "2 2/5",
+          "correct": false,
+          "confidence": 0.95
+        }
+      ],
+      "score": 4
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s28",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.93
+        },
+        {
+          "n": 2,
+          "read": "2/7",
+          "correct": false,
+          "confidence": 0.89
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.89
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.92
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.98
+        }
+      ],
+      "score": 4
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s29",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/14",
+          "correct": false,
+          "confidence": 0.98
+        },
+        {
+          "n": 2,
+          "read": "2/7",
+          "correct": false,
+          "confidence": 0.92
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.96
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.93
+        },
+        {
+          "n": 5,
+          "read": "3 5/2",
+          "correct": false,
+          "confidence": 0.91
+        }
+      ],
+      "score": 2
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s30",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.93
+        },
+        {
+          "n": 2,
+          "read": "2/12",
+          "correct": false,
+          "confidence": 0.9
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.92
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.97
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.98
+        }
+      ],
+      "score": 4
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s31",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/49",
+          "correct": false,
+          "confidence": 0.92
+        },
+        {
+          "n": 2,
+          "read": "2/12",
+          "correct": false,
+          "confidence": 0.98
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.86
+        },
+        {
+          "n": 4,
+          "read": "<",
+          "correct": false,
+          "confidence": 0.94
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.87
+        }
+      ],
+      "score": 2
+    },
+    {
+      "worksheetId": "ws-kasrlar-2026-10-17",
+      "studentId": "s32",
+      "date": "2026-10-17",
+      "answers": [
+        {
+          "n": 1,
+          "read": "5/7",
+          "correct": true,
+          "confidence": 0.93
+        },
+        {
+          "n": 2,
+          "read": "2/12",
+          "correct": false,
+          "confidence": 0.97
+        },
+        {
+          "n": 3,
+          "read": "2/3",
+          "correct": true,
+          "confidence": 0.9
+        },
+        {
+          "n": 4,
+          "read": ">",
+          "correct": true,
+          "confidence": 0.97
+        },
+        {
+          "n": 5,
+          "read": "3 2/5",
+          "correct": true,
+          "confidence": 0.97
+        }
+      ],
+      "score": 4
+    }
+  ]
+}

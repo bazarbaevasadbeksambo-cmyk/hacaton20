@@ -1,0 +1,1346 @@
+[
+  {
+    "studentId": "s01",
+    "subject": "Matematika",
+    "value": 3,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s01",
+    "subject": "Ona tili",
+    "value": 3,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s01",
+    "subject": "Ingliz tili",
+    "value": 3,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s01",
+    "subject": "Tarix",
+    "value": 4,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s01",
+    "subject": "Biologiya",
+    "value": 4,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s01",
+    "subject": "Rus tili",
+    "value": 3,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s02",
+    "subject": "Matematika",
+    "value": 3,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s02",
+    "subject": "Ona tili",
+    "value": 3,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s02",
+    "subject": "Ingliz tili",
+    "value": 3,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s02",
+    "subject": "Tarix",
+    "value": 3,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s02",
+    "subject": "Biologiya",
+    "value": 4,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s02",
+    "subject": "Rus tili",
+    "value": 3,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s03",
+    "subject": "Matematika",
+    "value": 2,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s03",
+    "subject": "Ona tili",
+    "value": 3,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s03",
+    "subject": "Ingliz tili",
+    "value": 3,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s03",
+    "subject": "Tarix",
+    "value": 3,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s03",
+    "subject": "Biologiya",
+    "value": 3,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s03",
+    "subject": "Rus tili",
+    "value": 4,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s04",
+    "subject": "Matematika",
+    "value": 3,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s04",
+    "subject": "Ona tili",
+    "value": 3,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s04",
+    "subject": "Ingliz tili",
+    "value": 3,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s04",
+    "subject": "Tarix",
+    "value": 4,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s04",
+    "subject": "Biologiya",
+    "value": 4,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s04",
+    "subject": "Rus tili",
+    "value": 4,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s05",
+    "subject": "Matematika",
+    "value": 2,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s05",
+    "subject": "Ona tili",
+    "value": 4,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s05",
+    "subject": "Ingliz tili",
+    "value": 4,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s05",
+    "subject": "Tarix",
+    "value": 3,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s05",
+    "subject": "Biologiya",
+    "value": 3,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s05",
+    "subject": "Rus tili",
+    "value": 3,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s06",
+    "subject": "Matematika",
+    "value": 5,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s06",
+    "subject": "Ona tili",
+    "value": 4,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s06",
+    "subject": "Ingliz tili",
+    "value": 4,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s06",
+    "subject": "Tarix",
+    "value": 4,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s06",
+    "subject": "Biologiya",
+    "value": 4,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s06",
+    "subject": "Rus tili",
+    "value": 5,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s07",
+    "subject": "Matematika",
+    "value": 5,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s07",
+    "subject": "Ona tili",
+    "value": 5,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s07",
+    "subject": "Ingliz tili",
+    "value": 5,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s07",
+    "subject": "Tarix",
+    "value": 4,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s07",
+    "subject": "Biologiya",
+    "value": 5,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s07",
+    "subject": "Rus tili",
+    "value": 4,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s08",
+    "subject": "Matematika",
+    "value": 4,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s08",
+    "subject": "Ona tili",
+    "value": 4,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s08",
+    "subject": "Ingliz tili",
+    "value": 3,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s08",
+    "subject": "Tarix",
+    "value": 3,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s08",
+    "subject": "Biologiya",
+    "value": 4,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s08",
+    "subject": "Rus tili",
+    "value": 4,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s09",
+    "subject": "Matematika",
+    "value": 3,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s09",
+    "subject": "Ona tili",
+    "value": 3,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s09",
+    "subject": "Ingliz tili",
+    "value": 3,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s09",
+    "subject": "Tarix",
+    "value": 3,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s09",
+    "subject": "Biologiya",
+    "value": 3,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s09",
+    "subject": "Rus tili",
+    "value": 3,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s10",
+    "subject": "Matematika",
+    "value": 4,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s10",
+    "subject": "Ona tili",
+    "value": 4,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s10",
+    "subject": "Ingliz tili",
+    "value": 5,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s10",
+    "subject": "Tarix",
+    "value": 4,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s10",
+    "subject": "Biologiya",
+    "value": 4,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s10",
+    "subject": "Rus tili",
+    "value": 4,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s11",
+    "subject": "Matematika",
+    "value": 4,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s11",
+    "subject": "Ona tili",
+    "value": 3,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s11",
+    "subject": "Ingliz tili",
+    "value": 5,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s11",
+    "subject": "Tarix",
+    "value": 4,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s11",
+    "subject": "Biologiya",
+    "value": 3,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s11",
+    "subject": "Rus tili",
+    "value": 4,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s12",
+    "subject": "Matematika",
+    "value": 5,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s12",
+    "subject": "Ona tili",
+    "value": 4,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s12",
+    "subject": "Ingliz tili",
+    "value": 5,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s12",
+    "subject": "Tarix",
+    "value": 4,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s12",
+    "subject": "Biologiya",
+    "value": 5,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s12",
+    "subject": "Rus tili",
+    "value": 4,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s13",
+    "subject": "Matematika",
+    "value": 4,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s13",
+    "subject": "Ona tili",
+    "value": 4,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s13",
+    "subject": "Ingliz tili",
+    "value": 4,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s13",
+    "subject": "Tarix",
+    "value": 3,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s13",
+    "subject": "Biologiya",
+    "value": 4,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s13",
+    "subject": "Rus tili",
+    "value": 4,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s14",
+    "subject": "Matematika",
+    "value": 2,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s14",
+    "subject": "Ona tili",
+    "value": 4,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s14",
+    "subject": "Ingliz tili",
+    "value": 3,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s14",
+    "subject": "Tarix",
+    "value": 3,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s14",
+    "subject": "Biologiya",
+    "value": 4,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s14",
+    "subject": "Rus tili",
+    "value": 4,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s15",
+    "subject": "Matematika",
+    "value": 4,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s15",
+    "subject": "Ona tili",
+    "value": 4,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s15",
+    "subject": "Ingliz tili",
+    "value": 5,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s15",
+    "subject": "Tarix",
+    "value": 4,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s15",
+    "subject": "Biologiya",
+    "value": 4,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s15",
+    "subject": "Rus tili",
+    "value": 4,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s16",
+    "subject": "Matematika",
+    "value": 2,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s16",
+    "subject": "Ona tili",
+    "value": 3,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s16",
+    "subject": "Ingliz tili",
+    "value": 3,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s16",
+    "subject": "Tarix",
+    "value": 3,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s16",
+    "subject": "Biologiya",
+    "value": 3,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s16",
+    "subject": "Rus tili",
+    "value": 4,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s17",
+    "subject": "Matematika",
+    "value": 3,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s17",
+    "subject": "Ona tili",
+    "value": 4,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s17",
+    "subject": "Ingliz tili",
+    "value": 4,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s17",
+    "subject": "Tarix",
+    "value": 3,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s17",
+    "subject": "Biologiya",
+    "value": 4,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s17",
+    "subject": "Rus tili",
+    "value": 4,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s18",
+    "subject": "Matematika",
+    "value": 5,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s18",
+    "subject": "Ona tili",
+    "value": 4,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s18",
+    "subject": "Ingliz tili",
+    "value": 4,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s18",
+    "subject": "Tarix",
+    "value": 3,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s18",
+    "subject": "Biologiya",
+    "value": 4,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s18",
+    "subject": "Rus tili",
+    "value": 3,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s19",
+    "subject": "Matematika",
+    "value": 4,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s19",
+    "subject": "Ona tili",
+    "value": 3,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s19",
+    "subject": "Ingliz tili",
+    "value": 3,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s19",
+    "subject": "Tarix",
+    "value": 4,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s19",
+    "subject": "Biologiya",
+    "value": 3,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s19",
+    "subject": "Rus tili",
+    "value": 3,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s20",
+    "subject": "Matematika",
+    "value": 4,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s20",
+    "subject": "Ona tili",
+    "value": 3,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s20",
+    "subject": "Ingliz tili",
+    "value": 4,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s20",
+    "subject": "Tarix",
+    "value": 4,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s20",
+    "subject": "Biologiya",
+    "value": 3,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s20",
+    "subject": "Rus tili",
+    "value": 4,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s21",
+    "subject": "Matematika",
+    "value": 3,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s21",
+    "subject": "Ona tili",
+    "value": 3,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s21",
+    "subject": "Ingliz tili",
+    "value": 3,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s21",
+    "subject": "Tarix",
+    "value": 3,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s21",
+    "subject": "Biologiya",
+    "value": 3,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s21",
+    "subject": "Rus tili",
+    "value": 3,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s22",
+    "subject": "Matematika",
+    "value": 3,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s22",
+    "subject": "Ona tili",
+    "value": 4,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s22",
+    "subject": "Ingliz tili",
+    "value": 3,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s22",
+    "subject": "Tarix",
+    "value": 4,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s22",
+    "subject": "Biologiya",
+    "value": 3,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s22",
+    "subject": "Rus tili",
+    "value": 3,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s23",
+    "subject": "Matematika",
+    "value": 5,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s23",
+    "subject": "Ona tili",
+    "value": 4,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s23",
+    "subject": "Ingliz tili",
+    "value": 4,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s23",
+    "subject": "Tarix",
+    "value": 5,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s23",
+    "subject": "Biologiya",
+    "value": 4,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s23",
+    "subject": "Rus tili",
+    "value": 4,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s24",
+    "subject": "Matematika",
+    "value": 3,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s24",
+    "subject": "Ona tili",
+    "value": 3,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s24",
+    "subject": "Ingliz tili",
+    "value": 3,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s24",
+    "subject": "Tarix",
+    "value": 3,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s24",
+    "subject": "Biologiya",
+    "value": 3,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s24",
+    "subject": "Rus tili",
+    "value": 3,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s25",
+    "subject": "Matematika",
+    "value": 3,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s25",
+    "subject": "Ona tili",
+    "value": 4,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s25",
+    "subject": "Ingliz tili",
+    "value": 3,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s25",
+    "subject": "Tarix",
+    "value": 3,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s25",
+    "subject": "Biologiya",
+    "value": 3,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s25",
+    "subject": "Rus tili",
+    "value": 3,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s26",
+    "subject": "Matematika",
+    "value": 4,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s26",
+    "subject": "Ona tili",
+    "value": 5,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s26",
+    "subject": "Ingliz tili",
+    "value": 5,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s26",
+    "subject": "Tarix",
+    "value": 4,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s26",
+    "subject": "Biologiya",
+    "value": 4,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s26",
+    "subject": "Rus tili",
+    "value": 5,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s27",
+    "subject": "Matematika",
+    "value": 4,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s27",
+    "subject": "Ona tili",
+    "value": 4,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s27",
+    "subject": "Ingliz tili",
+    "value": 5,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s27",
+    "subject": "Tarix",
+    "value": 4,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s27",
+    "subject": "Biologiya",
+    "value": 4,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s27",
+    "subject": "Rus tili",
+    "value": 5,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s28",
+    "subject": "Matematika",
+    "value": 4,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s28",
+    "subject": "Ona tili",
+    "value": 3,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s28",
+    "subject": "Ingliz tili",
+    "value": 3,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s28",
+    "subject": "Tarix",
+    "value": 3,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s28",
+    "subject": "Biologiya",
+    "value": 3,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s28",
+    "subject": "Rus tili",
+    "value": 3,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s29",
+    "subject": "Matematika",
+    "value": 2,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s29",
+    "subject": "Ona tili",
+    "value": 3,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s29",
+    "subject": "Ingliz tili",
+    "value": 4,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s29",
+    "subject": "Tarix",
+    "value": 3,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s29",
+    "subject": "Biologiya",
+    "value": 3,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s29",
+    "subject": "Rus tili",
+    "value": 4,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s30",
+    "subject": "Matematika",
+    "value": 4,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s30",
+    "subject": "Ona tili",
+    "value": 4,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s30",
+    "subject": "Ingliz tili",
+    "value": 3,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s30",
+    "subject": "Tarix",
+    "value": 4,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s30",
+    "subject": "Biologiya",
+    "value": 3,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s30",
+    "subject": "Rus tili",
+    "value": 3,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s31",
+    "subject": "Matematika",
+    "value": 2,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s31",
+    "subject": "Ona tili",
+    "value": 4,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s31",
+    "subject": "Ingliz tili",
+    "value": 3,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s31",
+    "subject": "Tarix",
+    "value": 4,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s31",
+    "subject": "Biologiya",
+    "value": 4,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s31",
+    "subject": "Rus tili",
+    "value": 4,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  },
+  {
+    "studentId": "s32",
+    "subject": "Matematika",
+    "value": 4,
+    "topic": "Kasrlar",
+    "date": "2026-10-17"
+  },
+  {
+    "studentId": "s32",
+    "subject": "Ona tili",
+    "value": 4,
+    "topic": "Fe'l zamonlari",
+    "date": "2026-10-12"
+  },
+  {
+    "studentId": "s32",
+    "subject": "Ingliz tili",
+    "value": 4,
+    "topic": "Present Simple",
+    "date": "2026-10-13"
+  },
+  {
+    "studentId": "s32",
+    "subject": "Tarix",
+    "value": 5,
+    "topic": "Amir Temur davlati",
+    "date": "2026-10-14"
+  },
+  {
+    "studentId": "s32",
+    "subject": "Biologiya",
+    "value": 4,
+    "topic": "O'simlik hujayrasi",
+    "date": "2026-10-15"
+  },
+  {
+    "studentId": "s32",
+    "subject": "Rus tili",
+    "value": 4,
+    "topic": "Имя существительное",
+    "date": "2026-10-16"
+  }
+]

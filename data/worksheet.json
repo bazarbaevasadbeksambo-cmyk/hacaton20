@@ -1,0 +1,41 @@
+{
+  "id": "ws-kasrlar-2026-10-17",
+  "grade": 6,
+  "className": "6-B",
+  "topic": "Kasrlar",
+  "questions": [
+    {
+      "n": 1,
+      "text": "2/7 + 3/7 = ?",
+      "answer": "5/7",
+      "skillId": "kasr-qoshish-bir-xil"
+    },
+    {
+      "n": 2,
+      "text": "1/3 + 1/4 = ?",
+      "answer": "7/12",
+      "skillId": "kasr-qoshish-har-xil"
+    },
+    {
+      "n": 3,
+      "text": "12/18 kasrni qisqartiring",
+      "textRu": "Сократите дробь 12/18",
+      "answer": "2/3",
+      "skillId": "kasr-qisqartirish"
+    },
+    {
+      "n": 4,
+      "text": "3/5 va 4/7 ni taqqoslang (>, < yoki =)",
+      "textRu": "Сравните 3/5 и 4/7 (>, < или =)",
+      "answer": ">",
+      "skillId": "kasr-taqqoslash"
+    },
+    {
+      "n": 5,
+      "text": "17/5 ni aralash son ko'rinishida yozing",
+      "textRu": "Запишите 17/5 смешанным числом",
+      "answer": "3 2/5",
+      "skillId": "aralash-son"
+    }
+  ]
+}

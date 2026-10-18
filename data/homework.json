@@ -1,0 +1,40 @@
+{
+  "id": "hw-kasrlar-2026-10-17",
+  "date": "2026-10-17",
+  "subject": "Matematika",
+  "topic": "Kasrlar: takrorlash",
+  "questions": [
+    {
+      "n": 1,
+      "text": "3/10 + 4/10 = ?",
+      "answer": "7/10",
+      "skillId": "kasr-qoshish-bir-xil"
+    },
+    {
+      "n": 2,
+      "text": "1/2 + 1/5 = ?",
+      "answer": "7/10",
+      "skillId": "kasr-qoshish-har-xil"
+    },
+    {
+      "n": 3,
+      "text": "2/3 + 1/6 = ?",
+      "answer": "5/6",
+      "skillId": "kasr-qoshish-har-xil"
+    },
+    {
+      "n": 4,
+      "text": "16/24 kasrni qisqartiring",
+      "textRu": "Сократите дробь 16/24",
+      "answer": "2/3",
+      "skillId": "kasr-qisqartirish"
+    },
+    {
+      "n": 5,
+      "text": "23/7 ni aralash son ko'rinishida yozing",
+      "textRu": "Запишите 23/7 смешанным числом",
+      "answer": "3 2/7",
+      "skillId": "aralash-son"
+    }
+  ]
+}

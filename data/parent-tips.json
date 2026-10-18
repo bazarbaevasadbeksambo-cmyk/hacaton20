@@ -1,0 +1,16 @@
+{
+  "uz": {
+    "kasr-qoshish-bir-xil": "Uyda pitsa yoki nonni teng bo'laklarga bo'lib, «3 bo'lak + 2 bo'lak nechta bo'ladi?» deb so'rang. Maxraj o'zgarmasligini birga ko'ring.",
+    "kasr-qoshish-har-xil": "Bitta olmani 2 ga, boshqasini 3 ga bo'ling va bo'laklarni teng qilish uchun ikkalasini 6 bo'lakka bo'lib ko'ring. Shunday 2–3 ta misolni birga yeching: avval umumiy maxraj, keyin qo'shish.",
+    "kasr-qisqartirish": "Har kuni 3 ta kasrni birga qisqartiring (masalan, 6/8, 10/15). «Surat va maxrajni qaysi songa bo'lsa bo'ladi?» deb so'rang.",
+    "kasr-taqqoslash": "Ikki kasrni rasmda chizib solishtiring: qaysi bo'lak kattaroq? Keyin umumiy maxrajga keltirib tekshiring.",
+    "aralash-son": "17 ta konfetni 5 tadan qilib bo'ling: nechta to'liq guruh va nechta ortib qoldi? Shu 3 2/5 degani ekanini birga ko'ring."
+  },
+  "ru": {
+    "kasr-qoshish-bir-xil": "Разрежьте пиццу или лепёшку на равные части и спросите: «3 куска + 2 куска — сколько?» Покажите, что знаменатель не меняется.",
+    "kasr-qoshish-har-xil": "Разрежьте одно яблоко на 2 части, другое на 3, а потом оба — на 6 равных частей. Решите вместе 2–3 примера: сначала общий знаменатель, потом сложение.",
+    "kasr-qisqartirish": "Каждый день сокращайте вместе 3 дроби (например, 6/8, 10/15). Спрашивайте: «На какое число делятся и числитель, и знаменатель?»",
+    "kasr-taqqoslash": "Нарисуйте две дроби и сравните: какая часть больше? Потом проверьте через общий знаменатель.",
+    "aralash-son": "Разложите 17 конфет по 5: сколько полных групп и сколько осталось? Покажите, что это и есть 3 2/5."
+  }
+}

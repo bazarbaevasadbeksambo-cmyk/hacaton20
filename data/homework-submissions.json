@@ -1,0 +1,2326 @@
+[
+  {
+    "studentId": "s01",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "5/6",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/3",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 4,
+    "submittedAt": "2026-10-17T15:00:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s02",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "5/14",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "5/6",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/3",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 2,
+    "submittedAt": "2026-10-17T16:07:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s03",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "5/14",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/3",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 3,
+    "leftPageCount": 3,
+    "submittedAt": "2026-10-17T17:14:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s04",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "5/14",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "5/6",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/3",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-17T18:21:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s05",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "2/12",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "5/6",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/3",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-17T19:28:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s06",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "5/14",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "5/6",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/3",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 3,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-17T15:35:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s07",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "5/6",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/3",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 5,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-17T16:42:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s08",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "5/6",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/3",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/5",
+        "correct": false,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-17T17:49:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s09",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "7/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "5/6",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/3",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-17T18:56:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s13",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "5/49",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "2/12",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "7/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "3/4",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 1,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-17T19:03:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s14",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "5/6",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "6/9",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-17T15:10:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s15",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "5/6",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/3",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 5,
+    "leftPageCount": 4,
+    "submittedAt": "2026-10-17T16:17:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s16",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "6/9",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 3,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-17T17:24:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s17",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "5/14",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "5/6",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "3/4",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 3,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-17T18:31:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s18",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "1/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/3",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 3,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-17T19:38:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s19",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "5/6",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/3",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "2 2/5",
+        "correct": false,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-17T15:45:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s20",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "2/12",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/3",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 3,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-17T16:52:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s21",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/3",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 5/2",
+        "correct": false,
+        "confidence": 1
+      }
+    ],
+    "score": 2,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-17T17:59:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s22",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "3/4",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 3,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-17T18:06:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s23",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "5/6",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/3",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 1,
+    "submittedAt": "2026-10-17T19:13:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s25",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "2/12",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/3",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-17T15:20:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s26",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "1/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "5/6",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/3",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 5/2",
+        "correct": false,
+        "confidence": 1
+      }
+    ],
+    "score": 3,
+    "leftPageCount": 2,
+    "submittedAt": "2026-10-17T16:27:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s29",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "3/4",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "2 2/5",
+        "correct": false,
+        "confidence": 1
+      }
+    ],
+    "score": 2,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-17T17:34:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s32",
+    "homeworkId": "hw-kasrlar-2026-10-17",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "7/10",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "5/6",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/3",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "3 2/7",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 5,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-17T18:41:00.000Z",
+    "examMode": false
+  },
+  {
+    "studentId": "s01",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "2/12",
+        "correct": false,
+        "confidence": 1
+      }
+    ],
+    "score": 1,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:20:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 3,
+      "totalSeconds": 29
+    }
+  },
+  {
+    "studentId": "s02",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "1/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "1/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "1/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "2/12",
+        "correct": false,
+        "confidence": 1
+      }
+    ],
+    "score": 1,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:21:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  },
+  {
+    "studentId": "s03",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "7/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      }
+    ],
+    "score": 1,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:22:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  },
+  {
+    "studentId": "s04",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "11/12",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/18",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 3,
+    "submittedAt": "2026-10-16T09:23:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  },
+  {
+    "studentId": "s05",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "11/12",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "2/12",
+        "correct": false,
+        "confidence": 1
+      }
+    ],
+    "score": 3,
+    "leftPageCount": 3,
+    "submittedAt": "2026-10-16T09:24:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  },
+  {
+    "studentId": "s06",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "11/12",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "17/24",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/18",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:25:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 1,
+      "totalSeconds": 8
+    }
+  },
+  {
+    "studentId": "s07",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "11/12",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/12",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/18",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:26:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 1,
+      "totalSeconds": 8
+    }
+  },
+  {
+    "studentId": "s08",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "11/12",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "17/24",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "2/12",
+        "correct": false,
+        "confidence": 1
+      }
+    ],
+    "score": 3,
+    "leftPageCount": 1,
+    "submittedAt": "2026-10-16T09:27:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  },
+  {
+    "studentId": "s09",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "1/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "17/24",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/18",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:28:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  },
+  {
+    "studentId": "s11",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "17/24",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/18",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:29:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  },
+  {
+    "studentId": "s12",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "11/12",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "17/24",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:30:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  },
+  {
+    "studentId": "s13",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "11/12",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/12",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/18",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 2,
+    "submittedAt": "2026-10-16T09:31:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  },
+  {
+    "studentId": "s14",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "11/12",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/18",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:32:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  },
+  {
+    "studentId": "s15",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "11/12",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "17/24",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/18",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:33:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 1,
+      "totalSeconds": 10
+    }
+  },
+  {
+    "studentId": "s16",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "17/24",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      }
+    ],
+    "score": 2,
+    "leftPageCount": 2,
+    "submittedAt": "2026-10-16T09:34:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 1,
+      "totalSeconds": 8
+    }
+  },
+  {
+    "studentId": "s17",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "1/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "11/12",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/18",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 3,
+    "leftPageCount": 2,
+    "submittedAt": "2026-10-16T09:35:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  },
+  {
+    "studentId": "s18",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "11/12",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "17/24",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/18",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:36:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  },
+  {
+    "studentId": "s19",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "1/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "17/24",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      }
+    ],
+    "score": 2,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:37:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  },
+  {
+    "studentId": "s20",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "7/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "7/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/18",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 2,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:38:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 2,
+      "totalSeconds": 25
+    }
+  },
+  {
+    "studentId": "s21",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "1/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "17/24",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/18",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 3,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:39:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 3,
+      "totalSeconds": 27
+    }
+  },
+  {
+    "studentId": "s22",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "2/12",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "17/24",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/18",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 4,
+    "leftPageCount": 4,
+    "submittedAt": "2026-10-16T09:40:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  },
+  {
+    "studentId": "s23",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "7/7",
+        "correct": false,
+        "confidence": 1
+      }
+    ],
+    "score": 1,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:41:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  },
+  {
+    "studentId": "s24",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "1/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "17/24",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "7/7",
+        "correct": false,
+        "confidence": 1
+      }
+    ],
+    "score": 2,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:42:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 2,
+      "totalSeconds": 20
+    }
+  },
+  {
+    "studentId": "s25",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "11/12",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "17/24",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/18",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 5,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:43:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 3,
+      "totalSeconds": 26
+    }
+  },
+  {
+    "studentId": "s26",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "11/12",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "17/24",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/18",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 5,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:44:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 3,
+      "totalSeconds": 38
+    }
+  },
+  {
+    "studentId": "s27",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "2/12",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "11/12",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "1/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/18",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 3,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:20:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  },
+  {
+    "studentId": "s28",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "3/4",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "11/12",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/12",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/18",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 3,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:21:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 1,
+      "totalSeconds": 10
+    }
+  },
+  {
+    "studentId": "s29",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "11/12",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "17/24",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      }
+    ],
+    "score": 3,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:22:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 2,
+      "totalSeconds": 21
+    }
+  },
+  {
+    "studentId": "s30",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "7/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "2/12",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "11/12",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      }
+    ],
+    "score": 1,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:23:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  },
+  {
+    "studentId": "s31",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "1/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "13/15",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "17/24",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      }
+    ],
+    "score": 2,
+    "leftPageCount": 2,
+    "submittedAt": "2026-10-16T09:24:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  },
+  {
+    "studentId": "s32",
+    "homeworkId": "as-bsb-har-xil",
+    "answers": [
+      {
+        "n": 1,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 2,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 3,
+        "read": "11/12",
+        "correct": true,
+        "confidence": 1
+      },
+      {
+        "n": 4,
+        "read": "2/7",
+        "correct": false,
+        "confidence": 1
+      },
+      {
+        "n": 5,
+        "read": "17/18",
+        "correct": true,
+        "confidence": 1
+      }
+    ],
+    "score": 2,
+    "leftPageCount": 0,
+    "submittedAt": "2026-10-16T09:25:00.000Z",
+    "examMode": true,
+    "focusSummary": {
+      "episodes": 0,
+      "totalSeconds": 0
+    }
+  }
+]

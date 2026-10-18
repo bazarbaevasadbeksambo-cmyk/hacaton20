@@ -1,0 +1,162 @@
+[
+  {
+    "id": "s01",
+    "number": 1,
+    "name": "Dilshod Abdullayev"
+  },
+  {
+    "id": "s02",
+    "number": 2,
+    "name": "Ulug'bek Aliyev"
+  },
+  {
+    "id": "s03",
+    "number": 3,
+    "name": "Munisa Bakirova"
+  },
+  {
+    "id": "s04",
+    "number": 4,
+    "name": "Bekzod Ergashev"
+  },
+  {
+    "id": "s05",
+    "number": 5,
+    "name": "Abdulloh Fayzullayev"
+  },
+  {
+    "id": "s06",
+    "number": 6,
+    "name": "Mohinur Hasanova"
+  },
+  {
+    "id": "s07",
+    "number": 7,
+    "name": "Jasur Islomov"
+  },
+  {
+    "id": "s08",
+    "number": 8,
+    "name": "Kamola Ismoilova"
+  },
+  {
+    "id": "s09",
+    "number": 9,
+    "name": "Feruza Jo'rayeva"
+  },
+  {
+    "id": "s10",
+    "number": 10,
+    "name": "Aziz Karimov"
+  },
+  {
+    "id": "s11",
+    "number": 11,
+    "name": "Shahzoda Komilova"
+  },
+  {
+    "id": "s12",
+    "number": 12,
+    "name": "Islom Mahmudov"
+  },
+  {
+    "id": "s13",
+    "number": 13,
+    "name": "Zarina Mirzayeva"
+  },
+  {
+    "id": "s14",
+    "number": 14,
+    "name": "Otabek Nazarov"
+  },
+  {
+    "id": "s15",
+    "number": 15,
+    "name": "Dilfuza Normatova"
+  },
+  {
+    "id": "s16",
+    "number": 16,
+    "name": "Sardor Qodirov"
+  },
+  {
+    "id": "s17",
+    "number": 17,
+    "name": "Rayhona Qosimova"
+  },
+  {
+    "id": "s18",
+    "number": 18,
+    "name": "Javohir Rahimov"
+  },
+  {
+    "id": "s19",
+    "number": 19,
+    "name": "Gulnoza Raximova"
+  },
+  {
+    "id": "s20",
+    "number": 20,
+    "name": "Hulkar Ro'ziyeva"
+  },
+  {
+    "id": "s21",
+    "number": 21,
+    "name": "Nilufar Saidova"
+  },
+  {
+    "id": "s22",
+    "number": 22,
+    "name": "Doniyor Sobirov"
+  },
+  {
+    "id": "s23",
+    "number": 23,
+    "name": "Laylo Sultonova"
+  },
+  {
+    "id": "s24",
+    "number": 24,
+    "name": "Sevara Toshmatova"
+  },
+  {
+    "id": "s25",
+    "number": 25,
+    "name": "Shoxrux Tursunov"
+  },
+  {
+    "id": "s26",
+    "number": 26,
+    "name": "Asadbek Umarov"
+  },
+  {
+    "id": "s27",
+    "number": 27,
+    "name": "Akmal Usmonov"
+  },
+  {
+    "id": "s28",
+    "number": 28,
+    "name": "Behruz Valiyev"
+  },
+  {
+    "id": "s29",
+    "number": 29,
+    "name": "Malika Xolmatova"
+  },
+  {
+    "id": "s30",
+    "number": 30,
+    "name": "Temur Xudoyberdiyev"
+  },
+  {
+    "id": "s31",
+    "number": 31,
+    "name": "Sanjar Yo'ldoshev"
+  },
+  {
+    "id": "s32",
+    "number": 32,
+    "name": "Madina Yusupova"
+  }
+]
